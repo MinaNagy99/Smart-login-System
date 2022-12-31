@@ -1,0 +1,25 @@
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+.group {
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+h1 {
+    color: #17a2b8;
+}
+input, textarea {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+input, textarea {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
